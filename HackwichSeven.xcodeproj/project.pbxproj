@@ -12,6 +12,7 @@
 		02AA64CD225693BD00BD8793 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 02AA64CB225693BD00BD8793 /* Main.storyboard */; };
 		02AA64CF225693C200BD8793 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 02AA64CE225693C200BD8793 /* Assets.xcassets */; };
 		02AA64D2225693C200BD8793 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 02AA64D0225693C200BD8793 /* LaunchScreen.storyboard */; };
+		02AA64DA225698CB00BD8793 /* Restaurant.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02AA64D9225698CB00BD8793 /* Restaurant.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		02AA64CE225693C200BD8793 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		02AA64D1225693C200BD8793 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		02AA64D3225693C200BD8793 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		02AA64D9225698CB00BD8793 /* Restaurant.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Restaurant.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				02AA64C7225693BD00BD8793 /* AppDelegate.swift */,
 				02AA64C9225693BD00BD8793 /* ViewController.swift */,
+				02AA64D9225698CB00BD8793 /* Restaurant.swift */,
 				02AA64CB225693BD00BD8793 /* Main.storyboard */,
 				02AA64CE225693C200BD8793 /* Assets.xcassets */,
 				02AA64D0225693C200BD8793 /* LaunchScreen.storyboard */,
@@ -137,6 +140,7 @@
 			files = (
 				02AA64CA225693BD00BD8793 /* ViewController.swift in Sources */,
 				02AA64C8225693BD00BD8793 /* AppDelegate.swift in Sources */,
+				02AA64DA225698CB00BD8793 /* Restaurant.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
